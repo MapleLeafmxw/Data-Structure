@@ -482,7 +482,7 @@ private:
 					flag = true;
 			}
 		}
-		return true;
+		return flag;
 	}
 };
 
